@@ -1,3 +1,0 @@
-This folder provides logs, Used for Bricktown Developers.
-All errors will be logged here
-(Meaning when ErrorService is ran the error code will be provided here along with debug information provided.)
